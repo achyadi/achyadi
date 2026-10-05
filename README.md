@@ -7,6 +7,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🌱 About Me
-* 🔭 Currently learning web development and building simple sites.
-* 💬 Ask me about **WordPress**, **HTML**, and **CSS**.
-* ⚡ Fun fact: I'm just getting started on my coding journey!
+* Currently learning web development and building simple sites.
+* Ask me about **WordPress**, **HTML**, and **CSS**.
+* Fun fact: I'm just getting started on my coding journey!
