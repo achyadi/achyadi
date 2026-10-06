@@ -10,3 +10,6 @@
 * Currently learning web development and building simple sites.
 * Ask me about **WordPress**, **HTML**, and **CSS**.
 * Fun fact: I'm just getting started on my coding journey!
+## 💬 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
